@@ -1,0 +1,17 @@
+body {background-color:lavender;
+}
+
+nav ul {list-style-type:none;
+}
+
+nav ul li {display: inline;}
+
+body {
+    background-image: url('tictacboo.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+  }
+  
+a {text-align: center;}
+
